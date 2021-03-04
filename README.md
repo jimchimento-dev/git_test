@@ -1,1 +1,1 @@
-This is jimchimeto-dev's first git project!
+This is jimchimento-dev's first git project!
